@@ -10,3 +10,4 @@
 Για την υλοποίηση του έργου θα χρησιμοποιήσουμε:
 -  Microbits
 -  Sensors
+- Solar Batteries
